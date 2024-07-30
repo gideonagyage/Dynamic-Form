@@ -17,13 +17,13 @@ This project is part of the Codevixens Frontend Development Challenge (Day 2). T
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/gideonagyage/dynamic-form.git
+git clone https://github.com/gideonagyage/Dynamic-Form.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd cd dynamic-form
+cd dynamic-form
 ```
 
 3. Install dependencies:
@@ -53,7 +53,7 @@ http://localhost:3000.
 3. Error Messages: If an input field is invalid, an error message is displayed below the field.
 4. Form Submission: When the user clicks the "Submit" button, the form data is validated. If all fields are valid, the form is submitted and a confirmation message is displayed.
 
-## Screenshots of the Age Calculator UI
+## Screenshots of the Dynamic Form UI
 
 - Form with Empty Fields
 
@@ -75,7 +75,7 @@ http://localhost:3000.
 
 ## Live Demo
 
-Check out the live demo [here](https://age-calculator-pi-green-34.vercel.app/).
+Check out the live demo [here](https://dynamic-form-topaz.vercel.app/).
 
 ## Reflection
 
